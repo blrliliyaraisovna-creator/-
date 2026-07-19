@@ -12,6 +12,8 @@
   5. [Анализ конкурентов in EdTech: Skillbox и Яндекс Практикум](https://vc.ru)
   6. [ABC-анализ и продуктовый аудит онлайн-школы «СмартВек»](https://vc.ru)
   7. [Архитектура, автоворонки и Data-driven маркетинг](https://vc.ru)
+*   **Интерактивная аналитика в AW BI**: https://aw-demo.ru/public/dashboard/6cyYUtpvcd2M1OERKLv-vo8WbrcUNbgO
+  <img width="1937" height="1262" alt="Сквозная аналитика СмартВек" src="https://github.com/user-attachments/assets/0715e9c4-82fc-43a1-83e1-77761b3e7aea" />
 
 ---
 
